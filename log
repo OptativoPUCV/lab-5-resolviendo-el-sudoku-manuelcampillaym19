@@ -2,3 +2,9 @@ sá.,  4 de oct. de 2025 23:33:04:
  tests:  0|5
 total_score: 0/70
 3f0e54c
+sá.,  4 de oct. de 2025 23:38:12: 
+ sudoku.c | 100 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+ 1 file changed, 97 insertions(+), 3 deletions(-)
+ tests:  10|0
+total_score: 70/70
+50e018d
